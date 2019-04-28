@@ -1,0 +1,19 @@
+{
+  "name": "tic-tac-js-sdk",
+  "version": "1.1.0",
+  "description": "https://github.com/NailValeev/tic-tac-js-sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NailValeev/tic-tac-js-sdk.git"
+  },
+  "author": "Nail Valeev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NailValeev/tic-tac-js-sdk/issues"
+  },
+  "homepage": "https://github.com/NailValeev/tic-tac-js-sdk#readme"
+}
