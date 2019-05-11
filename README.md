@@ -68,4 +68,6 @@ List of 27 methods available, grouped by endpoints they making calls to:
 # Sample app with Tic-tac Mobile JavaScript SDK, React.js, Next.js and Express.js
 ## Live demo:
 https://cscloud153.lnu.se/
+## Source code:
+https://github.com/NailValeev/tic-tac-js-sample
 
